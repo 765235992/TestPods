@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
 
-  spec.name         = "TestPodsA"
+  spec.name         = "TestPods"
   spec.version      = "0.0.1"
   spec.summary      = "测试使用"
   spec.description  = "测试一下"
